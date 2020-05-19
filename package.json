@@ -1,0 +1,23 @@
+{
+  "name": "flocss-design-proposal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass scss/ --output css/ --output-style expanded --watch --source-map true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-kabe/FLOCSS-design-proposal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M-kabe/FLOCSS-design-proposal/issues"
+  },
+  "homepage": "https://github.com/M-kabe/FLOCSS-design-proposal#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
